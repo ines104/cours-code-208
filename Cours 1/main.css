@@ -1,0 +1,28 @@
+/* style.css */
+body{
+  background: rgb(244,231,226);
+  color: purple;
+  font-size: 18px;
+  font-family: "Ancizar Sans";
+}
+h1{
+  font-family: "Oswald";
+  color: hotpink;
+  font-weight: bolder;
+  font-size: 40px;
+}
+h2 {
+  font-family: "Oswald";
+  color: darkslategrey;
+  font-weight: bold;
+  font-size: 25px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+.Image{width: 600px;
+}
